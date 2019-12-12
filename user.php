@@ -7,8 +7,7 @@
 <body>
 	<h1>Welcome Bobs</h1>
 	<li><a href="profile.php">Profile</a></li>
-	<li><a href="changepassword.php">Change Password</a></li>
-	<li><a href="showuser.php">Show Users</a></li>
+	<li><a href="changep.php">Change Password</a></li>
 	<li><a href="logout.php">Logout</a></li>
 		
 </body>
